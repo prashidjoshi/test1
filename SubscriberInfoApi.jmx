@@ -43,11 +43,6 @@
             <stringProp name="Argument.value">${__P(testData.getSubscriberFile,-SubscriberInfoApi.csv)}</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
-          <elementProp name="testEnvironment" elementType="Argument">
-            <stringProp name="Argument.name">testEnvironment</stringProp>
-            <stringProp name="Argument.value">${__P(testEnvironment,IT03)}</stringProp>
-            <stringProp name="Argument.metadata">=</stringProp>
-          </elementProp>
         </collectionProp>
       </Arguments>
       <hashTree/>
